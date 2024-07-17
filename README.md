@@ -1,6 +1,6 @@
 # PRODIGY_DS_02
 
-![Prodigy_task2]('./ds_task_02.png')
+![Prodigy_task2]('.\ds_task_02.png')
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I focused on data cleaning and exploratory data analysis (EDA) using the Titanic dataset.  
 
 ## Introduction
