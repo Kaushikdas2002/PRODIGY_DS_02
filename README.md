@@ -35,5 +35,5 @@ Through the EDA, I discovered several interesting insights:
 
 ## Contact
 For any queries or further discussion, feel free to reach out to me via LinkedIn or email.  
-**LinkedIn**: https://www.linkedin.com/in/kaushik-das-303126236/
-**Email**: dask72544@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/kaushik-das-303126236/  
+**Email**: dask72544@gmail.com    
